@@ -1,1 +1,1 @@
-# oop-projects
+# Digital school system
